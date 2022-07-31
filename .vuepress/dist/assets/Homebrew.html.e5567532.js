@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-50bd59ef","path":"/docs/notes/Mac/Homebrew.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Mac homebrew\u6362\u6E90","slug":"mac-homebrew\u6362\u6E90","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/notes/Mac/Homebrew.md"}');export{e as data};
