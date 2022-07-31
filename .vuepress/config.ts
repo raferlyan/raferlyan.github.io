@@ -18,13 +18,13 @@ export default defineUserConfig({
       '/docs/notes/Mac': [
         {
           text: 'Mac Tips',
-          children: ['Mac']
+          children: ['Mac','Terminal','Properties','Homebrew']
         }
       ],
       '/docs/notes/Git': [
         {
           text: 'Git 教程',
-          children: ['Git']
+          children: ['Git','Github&Gitee','GitLab']
         }
       ]
     },
